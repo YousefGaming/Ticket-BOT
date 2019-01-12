@@ -9,7 +9,7 @@ function clean(text) {
 }
 
 const prefix = "$";
-const token = "Token Your Bot";
+const token = "NTE0NDczMzI3NzM4MzU1NzE1.Dxs0tA.mnDkpMtbHSPeOas3HJssvCV4tIANTE0NDczMzI3NzM4MzU1NzE1.Dxs0tA.mnDkpMtbHSPeOas3HJssvCV4tIA";
 
 client.on("ready", () => {
   console.log("Cosita Ticket | Logged in! Server count: ${client.guilds.size}");
