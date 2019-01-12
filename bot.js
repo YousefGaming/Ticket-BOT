@@ -89,12 +89,12 @@ if (message.content.toLowerCase().startsWith(prefix + `close`)) {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`Desert Bot- Script By : sofaa`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : yousef ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`1play | Last Music`,"http://twitch.tv/Death Shop")
+client.user.setGame(`$new | Cosita Network`,"http://twitch.tv/cosita")
 client.user.setStatus("dnd")
 });
 
